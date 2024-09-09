@@ -9,4 +9,3 @@ const input = {
 
 const output = await request.run("pwntus/flux-albert-einstein:2ed2f6d1a8563caa2cfada419dffc68b52881bab9bac30c0b8cbe05a4dcae0e5", { input });
 console.log(output)
-//=> ["https://replicate.delivery/yhqm/W1Z237kDO8KRKpDTTn7f0ie...
